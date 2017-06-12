@@ -1,2 +1,2 @@
-# LikeIt-Project
+# LikeIt Project
 LikeIt Project
