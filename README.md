@@ -15,7 +15,7 @@ API List: ESPN, Newsapi
 
 IDE:   
 Android Studio   
-Webstorm  
+WebStorm  
 PyCharm
 
 Environments:      
