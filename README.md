@@ -1,6 +1,26 @@
 # Repositories
 are private
 
+# Technology
+Full Stack Application:
+Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API,Facebook API etc.) 
+JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
+
+Back End:
+Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)
+Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)
+Developed using with IPython
+API List: ESPN, Newsapi
+
+IDE:
+Android Studio
+Webstorm
+PyCharm
+
+Environments:
+Windows and Linux (Ubuntu Server with external GPU) 
+
+
 # LikeIt Application
 https://play.google.com/store/apps/details?id=com.gal.galbenevgi.likeitapplicationfrontend
 
