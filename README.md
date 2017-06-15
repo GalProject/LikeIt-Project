@@ -1,24 +1,24 @@
 # Repositories
-are private
+are private  
 
-# Technology
-Full Stack Application:   
-Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API,Facebook API etc.) 
+# Technology   
+Full Stack Application:      
+Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API,Facebook API etc.)      
 JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
 
 Back End:  
-Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)
-Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)
-Developed using with IPython
-API List: ESPN, Newsapi
+Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)     
+Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)     
+Developed using with IPython    
+API List: ESPN, Newsapi     
 
 IDE:   
-Android Studio
-Webstorm
+Android Studio   
+Webstorm  
 PyCharm
 
-Environments:   
-Windows and Linux (Ubuntu Server with external GPU)    
+Environments:      
+Windows and Linux (Ubuntu Server with external GPU)        
 
 
 
