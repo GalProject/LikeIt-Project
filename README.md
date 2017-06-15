@@ -19,7 +19,7 @@ WebStorm
 PyCharm
 
 Environments:      
-Windows and Linux (Ubuntu Server with external GPU)        
+Windows and Linux (Remote Ubuntu Server with external GPU)        
 
 
 
