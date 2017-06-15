@@ -3,7 +3,7 @@ are private
 
 # Technology   
 Full Stack Application:      
-Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API,Facebook API etc.)      
+Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API, Facebook API etc.)      
 JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
 
 Back End:  
