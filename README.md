@@ -9,7 +9,8 @@ JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
 Back End:  
 Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)     
 Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)     
-Developed using with IPython    
+Developed using with IPython
+   
 API List: ESPN, Newsapi     
 
 IDE:   
