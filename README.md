@@ -35,8 +35,8 @@ https://www.youtube.com/watch?v=iMq_VM7bmjA
 ![My image](http://i64.tinypic.com/aemb8h.png)
 
 
-# Crew Members
-Bar Shmerling
-Gal Ben Evgi
-Gal Malca
-Moran Hazom
+# Developers
+Bar Shmerling  
+Gal Ben Evgi  
+Gal Malca  
+Moran Hazom  
