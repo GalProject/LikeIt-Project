@@ -2,23 +2,24 @@
 are private
 
 # Technology
-Full Stack Application:
+Full Stack Application:   
 Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API,Facebook API etc.) 
 JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
 
-Back End:
+Back End:  
 Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)
 Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)
 Developed using with IPython
 API List: ESPN, Newsapi
 
-IDE:
+IDE:   
 Android Studio
 Webstorm
 PyCharm
 
-Environments:
-Windows and Linux (Ubuntu Server with external GPU) 
+Environments:   
+Windows and Linux (Ubuntu Server with external GPU)    
+
 
 
 # LikeIt Application
