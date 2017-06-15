@@ -1,4 +1,4 @@
-# Repositorys
+# Repositories
 are private
 
 # LikeIt Application
