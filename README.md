@@ -1,7 +1,7 @@
 # Repositorys
 are private
 
-# LikeIt Project Application
+# LikeIt Application
 https://play.google.com/store/apps/details?id=com.gal.galbenevgi.likeitapplicationfrontend
 
 # Videos
