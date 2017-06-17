@@ -1,6 +1,7 @@
 # Repositories
 are private    
-![My image](http://i64.tinypic.com/rkzk0n.png)     
+
+![My image](http://i64.tinypic.com/b3pnpw.png)       
 
 # Technology   
 Full Stack Application:      
