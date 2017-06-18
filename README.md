@@ -29,9 +29,10 @@ We run weekly sprints (Agile Method) with our Lecturer Dr. Eliav Menachi
 # LikeIt Application
 https://play.google.com/store/apps/details?id=com.gal.galbenevgi.likeitapplicationfrontend
 
-# Videos
+# Videos & Presentations
 https://youtu.be/jb1g7rWkSZQ    
-https://www.youtube.com/watch?v=iMq_VM7bmjA   
+https://www.youtube.com/watch?v=iMq_VM7bmjA
+http://snack.to/bhjs6pkx?UA_PHPSESSID=scf2ncvlplu9g1s8qv5353rau5
    
 
 # Pics & Graphics
