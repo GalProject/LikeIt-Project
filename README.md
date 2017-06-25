@@ -24,7 +24,7 @@ Environments:
 Windows and Linux (Remote Ubuntu Server with external GPU)        
 
 # About Development
-We run weekly sprints (Agile Method) with our Supervisor Dr. Eliav Menachi and we used with Slack to communicate
+We run weekly sprints (Scrum Method) with our Supervisor Dr. Eliav Menachi and we used with Slack to communicate
 
 # LikeIt Application
 https://play.google.com/store/apps/details?id=com.gal.galbenevgi.likeitapplicationfrontend
