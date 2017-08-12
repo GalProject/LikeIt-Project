@@ -13,7 +13,7 @@ Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)
 Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)     
 Developed using with IPython
    
-API List: ESPN, Newsapi     
+API List: ESPN, Newsapi, Fox Sports, SPORTbible     
 
 IDE:   
 Android Studio   
