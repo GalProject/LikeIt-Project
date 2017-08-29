@@ -1,5 +1,5 @@
 # LikeIt (Our Graduate Final Project)
-focus on Machine Learning
+focus on Machine Learning - Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)
 
 # Repositories
 are private    
@@ -12,8 +12,7 @@ Java (Retrofit2, Object Oriented Programming, Design Patterns, YouTube API, Face
 JavaScript (NodeJS, Express, MongoDB, Mongoose, mLab etc.)
 
 Back End:  
-Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)     
-Machine Learning: Matrix Factorization and a Hybrid Recommendation Method (CB Filtering)     
+Python (Flask, IBM Watson, Pymongo, NumPay, Jupyter Notebook etc.)    
 Developed using with IPython
    
 API List: ESPN, Newsapi, Fox Sports, SPORTbible     
