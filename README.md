@@ -1,3 +1,6 @@
+# LikeIt (Our Graduate Final Project)
+focus on Machine Learning
+
 # Repositories
 are private    
 
