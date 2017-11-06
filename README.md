@@ -47,6 +47,6 @@ http://snack.to/bhjs6pkx?UA_PHPSESSID=scf2ncvlplu9g1s8qv5353rau5
 
 # Developers
 Bar Shmerling  
-Gal Ben Evgi  
+Gal Ben-Evgi  
 Gal Malca  
 Moran Hazom  
